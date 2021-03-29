@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WuJiang-java
-- 👀 I’m interested in ...
+- 👀 I’m interested in playing game
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on kingdee
 - 📫 How to reach me 1473670836@qq.com
 
 <!---
